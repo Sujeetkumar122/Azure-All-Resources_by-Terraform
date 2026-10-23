@@ -1,0 +1,1 @@
+# Azure-All-Resources_by-Terraform
